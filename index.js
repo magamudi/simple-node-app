@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (request, response) => {
-  response.send('I am an expert business and corporate attorney with over 12 years of practical experience in corporate law practice. I am an experienced document and contract drafter, negotiator and reviewer. I am Licensed in the State of New York.');
+  response.send('Krichell Blair is a very smart account director with BBGroup of Companies. Currently BBG is valued at 2Billion dollars but she wont even give me a billion, SAD!!!!.');
 });
 
 app.listen(8080, () => {
